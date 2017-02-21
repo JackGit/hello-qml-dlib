@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/camera_auto_mode.png</file>
+        <file>images/mustache.png</file>
+    </qresource>
+</RCC>
